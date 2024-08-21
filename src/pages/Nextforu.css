@@ -1780,6 +1780,7 @@
     gap: var(--gap-xl);
   }
   .container {
+    padding: 0;
     padding-top: 10%;
     box-sizing: border-box;
   }
